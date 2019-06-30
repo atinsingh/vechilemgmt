@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: vechiclemgmt
+  profiles:
+    active: dev
+server:
+  port: 7000
